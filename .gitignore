@@ -30,7 +30,7 @@ MANIFEST
 .ipynb_checkpoints
 
 # PyTorch
-*.pth
+# *.pth
 *.pt
 
 # IDE
@@ -54,7 +54,7 @@ Thumbs.db
 .env.production.local
 
 # Model checkpoints and data
-models/
+# models/
 checkpoints/
 *.h5
 *.pkl
