@@ -16,6 +16,7 @@ dependencies = [
     "tqdm",
     "jupyter",
     "scikit-image",
+    "ultralytics",
 ]
 
 [project.optional-dependencies]
